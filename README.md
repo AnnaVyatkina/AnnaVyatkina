@@ -1,4 +1,12 @@
-### Hi there 👋
+# ⚡ About Me:
+<br>
+<br>Hello! My name is (Anya/Anja) and I am a web developer (frontend).<br>
+<br>💻 My Stack:<br>
+- HTML, CSS, JavaScript<br>
+- Front-end frameworks libraries: React<br>
+- Version control: Git, GitHub<br><br>
+📫 How to reach me:<br>- Email: vyatkina.anya@gmail.com<br>
+- Telegram: https://t.me/Anna_ananas_banan<br>
 
 <!--
 **AnnaVyatkina/AnnaVyatkina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
