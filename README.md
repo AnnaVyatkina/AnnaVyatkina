@@ -1,6 +1,6 @@
 # ⚡ About Me:
 <br>
-<br>Hello! My name is (Anya/Anja) and I am a web developer (frontend).<br>
+<br>Hello! My name is Anna (Anya/Anja) and I am a web developer (frontend).<br>
 <br>💻 My Stack:<br>
 - HTML, CSS, JavaScript<br>
 - TypeScript<br>
