@@ -3,6 +3,7 @@
 <br>Hello! My name is (Anya/Anja) and I am a web developer (frontend).<br>
 <br>💻 My Stack:<br>
 - HTML, CSS, JavaScript<br>
+- TypeScript<br>
 - Front-end frameworks libraries: React<br>
 - Version control: Git, GitHub<br><br>
 📫 How to reach me:<br>- Email: vyatkina.anya@gmail.com<br>
