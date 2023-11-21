@@ -4,6 +4,7 @@
 <br>💻 My Stack:<br>
 - HTML, CSS, JavaScript<br>
 - TypeScript<br>
+- SASS/LESS<br>
 - Front-end frameworks libraries: React<br>
 - Version control: Git, GitHub<br><br>
 📫 How to reach me:<br>- Email: vyatkina.anya@gmail.com<br>
